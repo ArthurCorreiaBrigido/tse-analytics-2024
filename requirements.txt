@@ -1,0 +1,8 @@
+adjustText==1.2.0
+matplotlib==3.9.2
+pandas==3.0.3
+scikit_learn==1.5.1
+seaborn==0.13.2
+SQLAlchemy==2.0.32
+streamlit==1.58
+gdown==6.1.0
