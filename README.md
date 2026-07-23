@@ -17,6 +17,6 @@ Tribunal Superior Eleitoral (TSE): [Acesse os dados aqui](https://dados.gov.br/d
     - [ ] Análise mulheres pretas
  
 
-  - [X] Análise faixa etária
-  - [X] Bens
-  - [ ] Candidatos novos/reeleitos 
+- [X] Análise faixa etária
+- [X] Bens
+- [ ] Candidatos novos/reeleitos 
